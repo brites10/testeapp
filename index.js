@@ -6,7 +6,7 @@ const perguntas = [
         " Criar conteúdo dinâmico e interativo em páginas da web",
         " Armazenar dados em um banco de dados",
       ],
-      correta: 1
+      correta: 1 
     },
     {
       pergunta: "O que é uma variável em JavaScript?",
